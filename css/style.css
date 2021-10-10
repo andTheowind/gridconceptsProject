@@ -68,7 +68,7 @@ main .container-fluid .row {
 .about-longview {
     display: flex;
     align-items: center;
-    color: white;
+    color: #fff;
 
 }
 
@@ -87,7 +87,7 @@ h2 {
 
 
 .two-blocks-txt, .blocks-txt-vs-img {
-    margin-top: 70px;
+    padding-top: 70px;
     display: flex;
 }
 
