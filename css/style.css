@@ -123,10 +123,8 @@ h2 {
     margin-top: 40px;
 }
 
-.card {
+.cards > div {
     margin-bottom: 20px;
-    border-radius: 0;
-    border: 0;
 }
 
 .card-body {
@@ -147,7 +145,6 @@ h2 {
 .icon img {
     max-height: 55px;
 }
-
 
 .blocks-txt-vs-img h2 {
     max-width: 400px;
@@ -250,7 +247,6 @@ h2 {
     border-radius: 0;
 }
 
-
 footer {
     background-color: #261C2B;
 }
@@ -316,11 +312,6 @@ footer .container-fluid {
     background-color: #554e59;
     border-top: 0px solid #554e59;
 }
-
-
-
-
-
 
 
 
