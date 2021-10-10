@@ -128,6 +128,10 @@ h2 {
     border: 0;
 }
 
+.card-body {
+    background-color: #fff;
+}
+
 .card-header {
     background-color: #fff;
     border-bottom: 2px solid rgba(0,0,0,.125);
@@ -138,7 +142,7 @@ h2 {
     font-family: 'Roboto', sans-serif;
 }
 
-.card-img img {
+.icon img {
     max-height: 55px;
 }
 
