@@ -119,11 +119,12 @@ h2 {
     padding-bottom: 60px;
 }
 
-.card-deck {
+.cards {
     margin-top: 40px;
 }
 
 .card {
+    margin-bottom: 20px;
     border-radius: 0;
     border: 0;
 }
@@ -133,6 +134,7 @@ h2 {
 }
 
 .card-header {
+    border-radius: 0;
     background-color: #fff;
     border-bottom: 2px solid rgba(0,0,0,.125);
 }
@@ -146,13 +148,6 @@ h2 {
     max-height: 55px;
 }
 
-.guaranteed-rent-company {
-
-}
-
-.buy-with-guaranteed {
-
-}
 
 .blocks-txt-vs-img h2 {
     max-width: 400px;
